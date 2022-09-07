@@ -1,1 +1,1 @@
-that counts the number of directories in the PATH
+that lists environment variables
