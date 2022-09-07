@@ -1,1 +1,1 @@
-that creates a new local variable
+that creates a new global variable
