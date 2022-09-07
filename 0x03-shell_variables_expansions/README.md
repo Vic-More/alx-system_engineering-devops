@@ -1,1 +1,1 @@
-that prints the result of POWER divided by DIVIDE, followed by a new line
+that displays the result of BREATH to the power LOVE
